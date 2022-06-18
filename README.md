@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Nazmul Hudha</h1>
+  <h1> Naz H.</h1>
   <h3> Full Stack Developer </h3>
     <h4> Makers Software Engineering Bootcamp | BA Arabic and Geography | Former Sales Manager / Account Manager (ex-Uber) </h4>
   
@@ -22,3 +22,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>  
 
 </div>
+
+## Projects
+
+| Name                         | Description       | Tech/tools        | Source Code |
+| ---------------------------- | ----------------- | ----------------- | :---------: |
+| **MakersBNB** | Team Build, Property Rental Booking app   | Ruby, HTML, CSS, PostgreSQL, Sinatra, Rspec | [MakersBNB](https://github.com/nazhudha/MakersBNB) |
+| **Portfolio-Web-Build**         |  A responsive, Personal Portfolio Site Build   |  HTML, CSS, Javascript   |  [Portfolio Site](https://github.com/nazhudha/Portfolio-Web-Build)  |
+| **Miracle Shoe** | Team Build, Frontend Shoe E-Commerce site   | React, NPM packages | [Miracle Shoe](https://github.com/nazhudha/miracle-shoes-ecommerce) |
+| **NES-CSS-Dialogue**          | Using NESS CSS framework   |  NESS CSS, NPM packages   |  [Ness Css ](https://github.com/nazhudha/css---NES-CSS-Dialogue)  |
