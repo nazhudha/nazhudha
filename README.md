@@ -1,8 +1,6 @@
 <div align="center">
-<h2></h2>
   <h3>Hi, I'm Naz 👋  ~ A Full Stack Developer </h3>
     <h4> Makers Software Engineering Bootcamp | BA Arabic and Geography | Former Sales Manager / Account Manager (ex-Uber) </h4>
-  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -20,12 +18,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>  
-
 </div>
 
 ## Intro
 
-I am an adaptable and reliable **Full Stack Developer**, looking for a new role on the development team.  You can contact me via <a href='https://www.linkedin.com/in/nazmul-h-7a44b7116/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo'/></a>
+I am an adaptable and reliable **Full Stack Developer**, looking for a new role on the development team.  You can contact me via <a href='https://www.linkedin.com/in/nazmul-h-7a44b7116/' target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo'/></a>
 
 ## Projects
 
