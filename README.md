@@ -1,7 +1,6 @@
-### Hi, I'm Naz 👋
 <div align="center">
-<h2>Hi, I'm Naz 👋 </h2>
-  <h3>A Full Stack Developer </h3>
+<h2></h2>
+  <h3>Hi, I'm Naz 👋  ~ A Full Stack Developer </h3>
     <h4> Makers Software Engineering Bootcamp | BA Arabic and Geography | Former Sales Manager / Account Manager (ex-Uber) </h4>
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
