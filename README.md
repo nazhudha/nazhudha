@@ -1,5 +1,6 @@
 ### Hi, I'm Naz 👋
 <div align="center">
+<h2>Hi, I'm Naz 👋 </h2>
   <h3>A Full Stack Developer </h3>
     <h4> Makers Software Engineering Bootcamp | BA Arabic and Geography | Former Sales Manager / Account Manager (ex-Uber) </h4>
   
